@@ -1,0 +1,27 @@
+.right-item{
+    padding-left: 3%;
+    padding-right: 3%;
+    color: red;
+    font-weight: 1000;
+}
+.main-item{
+    text-align: left;
+    padding-right: 10%;
+    color: blue;
+}
+.jumbotron{
+    background: url(http://www.themesltd.com/headers2/cute_bulbasaur_charmander_and_squirtle_pokemon.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .5;
+}
+.main-display{
+    font-size: 5rem;
+    color: black;
+    font-weight: 1000;
+    text-shadow: 2px 2px white;
+}
+.navbar-brand{
+    font-weight: 500;
+    color: black;
+}
